@@ -10,7 +10,7 @@ class Config(object):
     JOIN_LOGGER = (-1001703890329)
     EVENT_LOGS = (-1001703890329)
 
-    SQLALCHEMY_DATABASE_URI = ""
+    SQLALCHEMY_DATABASE_URI = "4-tEYOIkovamHgWSrChRXi5N4uIdcsIJ@mouse.db.elephantsql.com"
     MONGO_DB_URI = "mongodb+srv://kailasvg:kailasvg@cluster04.gvju7bn.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
