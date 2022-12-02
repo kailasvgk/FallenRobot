@@ -1,17 +1,17 @@
 class Config(object):
     LOGGER = True
 
-    API_ID = 
-    API_HASH = ""
-    TOKEN = ""
-    OWNER_ID = 
-    OWNER_USERNAME = ""
-    SUPPORT_CHAT = ""
-    JOIN_LOGGER = ()
-    EVENT_LOGS = ()
+    API_ID = "22029156"
+    API_HASH = "7c7d75736193b71d40b00dc0b0981725"
+    TOKEN = "5835236187:AAFP4OxZVBhrTxsmjjm6p-CAuA3qwLR_4g4"
+    OWNER_ID = "5530347700"
+    OWNER_USERNAME = "kailas_vg"
+    SUPPORT_CHAT = "Pranav_support_Chat"
+    JOIN_LOGGER = (-1001703890329)
+    EVENT_LOGS = (-1001703890329)
 
     SQLALCHEMY_DATABASE_URI = ""
-    MONGO_DB_URI = ""
+    MONGO_DB_URI = "mongodb+srv://kailasvg:kailasvg@cluster04.gvju7bn.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
     WEBHOOK = False
